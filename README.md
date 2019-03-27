@@ -29,3 +29,7 @@ It's easy to use this library in your applications.
 	neven_destroy(env);
 ```
 
+OpenCV 2+ examples
+------------------
+
+`opencv/neven_detector.hpp` and `opencv/neven_detector.cpp` contain an examples for building an object oriented wrapper.
